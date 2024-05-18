@@ -1,0 +1,2 @@
+when we have a lot of pod definition file, it is difficult to manage the environment data stored in it. 
+we can place this information out of pod definition file and manage it centrally with configuration map.

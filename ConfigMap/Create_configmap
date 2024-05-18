@@ -1,0 +1,14 @@
+### create a config map from files
+
+
+### Create a config map from Directory
+
+suppose you have your configuration files under properties directory
+
+```yaml
+kubectl create configmap abicm --from-file=properties/
+```
+### create a config map from env-files
+
+
+### create a config map from yaml
