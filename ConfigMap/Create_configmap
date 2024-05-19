@@ -10,5 +10,8 @@ kubectl create configmap abicm --from-file=properties/
 ```
 ### create a config map from env-files
 
+```yaml
+kubectl create configmap envcm --from-env-files
+```
 
 ### create a config map from yaml
