@@ -19,8 +19,10 @@ spec:
     - containerPort: 80
 ```
 
-[!IMPORTANT]
- How can you edit a pod ?
+
+
+> [!IMPORTANT]
+> Key information users need to know to achieve their goal.
 
 > [!NOTE]
 > its a note
