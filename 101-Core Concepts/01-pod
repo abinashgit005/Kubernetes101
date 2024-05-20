@@ -19,10 +19,3 @@ spec:
     - containerPort: 80
 ```
 
-
-
-> [!IMPORTANT]
-> Key information users need to know to achieve their goal.
-
-> [!NOTE]
-> its a note
