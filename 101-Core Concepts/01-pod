@@ -22,5 +22,5 @@ spec:
 [!IMPORTANT]
  How can you edit a pod ?
 
- [!NOTE]
- its a note
+> [!NOTE]
+> its a note
